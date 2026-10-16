@@ -8,4 +8,4 @@ Historical medal tallies for top countries.
   
 Breakdown of medals by sports events and seasons.
   
-Athlete BMI trends and weight classifications (Normal, Overweight, Obesity, Underweight) from 1900 to 2016.
+Athlete BMI trends and weight classifications (Normal, Overweight, Obesity, Underweight) from 1896 to 2016.
